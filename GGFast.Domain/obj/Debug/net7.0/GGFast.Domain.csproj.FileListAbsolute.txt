@@ -1,0 +1,12 @@
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\bin\Debug\net7.0\GGFast.Domain.deps.json
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\bin\Debug\net7.0\GGFast.Domain.dll
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\bin\Debug\net7.0\GGFast.Domain.pdb
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\obj\Debug\net7.0\GGFast.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\obj\Debug\net7.0\GGFast.Domain.AssemblyInfoInputs.cache
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\obj\Debug\net7.0\GGFast.Domain.AssemblyInfo.cs
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\obj\Debug\net7.0\GGFast.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\obj\Debug\net7.0\GGFast.Domain.dll
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\obj\Debug\net7.0\refint\GGFast.Domain.dll
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\obj\Debug\net7.0\GGFast.Domain.pdb
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\obj\Debug\net7.0\ref\GGFast.Domain.dll
+C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Domain\obj\Debug\net7.0\GGFast.Domain.sourcelink.json
