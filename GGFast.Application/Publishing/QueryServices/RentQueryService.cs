@@ -1,4 +1,5 @@
 using AutoMapper;
+using DriveSafe.Domain.Publishing.Models.Queries;
 using GottaGoFast.Domain.Publishing.Models.Entities;
 using GottaGoFast.Domain.Publishing.Models.Queries;
 using GottaGoFast.Domain.Publishing.Models.Response;
@@ -30,6 +31,12 @@ public class RentQueryService : IRentQueryService
         var result = _mapper.Map<Rent, RentResponse>(data);
         return result;
     }
-
+    
+    public async Task<List<RentResponse?>> Handle(GetRentByUserIdQuery query)
+    {
+        var data = await _rentRepository.GetByUserIdAsync(query.Id);
+        var result = _mapper.Map<List<Rent>, List<RentResponse>>(data);
+        return result;
+    }
     
 }

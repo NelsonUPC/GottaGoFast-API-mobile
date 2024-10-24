@@ -59,6 +59,7 @@ public class RentRepository : IRentRepository
             existingRent.StartDate = data.StartDate;
             existingRent.EndDate = data.EndDate;
             existingRent.VehicleId = data.VehicleId;
+            existingRent.TenantId = data.TenantId;
             existingRent.PickUpPlace = data.PickUpPlace;
             _driveSafeDbContext.Rents.Update(existingRent);
         }
@@ -76,5 +77,8 @@ public class RentRepository : IRentRepository
         await _driveSafeDbContext.SaveChangesAsync();
         return true;
     }
-    
+    public async Task<List<Rent>> GetByUserIdAsync(int userId)
+    {
+        return await _driveSafeDbContext.Rents.Where(r => r.TenantId == userId).ToListAsync();
+    }
 }
