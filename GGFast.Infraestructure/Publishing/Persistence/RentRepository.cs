@@ -61,6 +61,7 @@ public class RentRepository : IRentRepository
             existingRent.VehicleId = data.VehicleId;
             existingRent.TenantId = data.TenantId;
             existingRent.PickUpPlace = data.PickUpPlace;
+            existingRent.DroppOfPlace = data.DroppOfPlace;
             _driveSafeDbContext.Rents.Update(existingRent);
         }
         await _driveSafeDbContext.SaveChangesAsync();

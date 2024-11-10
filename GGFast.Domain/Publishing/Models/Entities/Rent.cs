@@ -9,4 +9,6 @@ public class Rent : BaseModel
     public int TenantId { get; set; }
 
     public string PickUpPlace { get; set; }
+    
+    public string DroppOfPlace { get; set; }
 }
