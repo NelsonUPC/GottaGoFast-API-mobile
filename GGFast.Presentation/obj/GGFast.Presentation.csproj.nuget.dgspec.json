@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Presentation\\GGFast.Presentation.csproj": {}
+    "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Presentation\\GGFast.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Application\\GGFast.Application.csproj": {
+    "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Application\\GGFast.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Application\\GGFast.Application.csproj",
+        "projectUniqueName": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Application\\GGFast.Application.csproj",
         "projectName": "GGFast.Application",
-        "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Application\\GGFast.Application.csproj",
-        "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Application\\obj\\",
+        "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Application\\GGFast.Application.csproj",
+        "packagesPath": "C:\\Users\\jujox\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nelso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jujox\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\GGFast.Domain.csproj": {
-                "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\GGFast.Domain.csproj"
+              "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\GGFast.Domain.csproj": {
+                "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\GGFast.Domain.csproj"
               }
             }
           }
@@ -38,6 +36,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -116,47 +119,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\jujox\\.dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\GGFast.Domain.csproj": {
+    "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\GGFast.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\GGFast.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\GGFast.Domain.csproj",
         "projectName": "GGFast.Domain",
-        "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\GGFast.Domain.csproj",
-        "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\obj\\",
+        "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\GGFast.Domain.csproj",
+        "packagesPath": "C:\\Users\\jujox\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nelso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jujox\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -169,6 +156,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -185,55 +177,39 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\jujox\\.dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Infraestructure\\GGFast.Infraestructure.csproj": {
+    "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Infraestructure\\GGFast.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Infraestructure\\GGFast.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Infraestructure\\GGFast.Infraestructure.csproj",
         "projectName": "GGFast.Infraestructure",
-        "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Infraestructure\\GGFast.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Infraestructure\\GGFast.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\jujox\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nelso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jujox\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\GGFast.Domain.csproj": {
-                "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\GGFast.Domain.csproj"
+              "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\GGFast.Domain.csproj": {
+                "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\GGFast.Domain.csproj"
               }
             }
           }
@@ -242,6 +218,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -276,64 +257,48 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\jujox\\.dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Presentation\\GGFast.Presentation.csproj": {
+    "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Presentation\\GGFast.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Presentation\\GGFast.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Presentation\\GGFast.Presentation.csproj",
         "projectName": "GGFast.Presentation",
-        "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Presentation\\GGFast.Presentation.csproj",
-        "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Presentation\\obj\\",
+        "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Presentation\\GGFast.Presentation.csproj",
+        "packagesPath": "C:\\Users\\jujox\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nelso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jujox\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Application\\GGFast.Application.csproj": {
-                "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Application\\GGFast.Application.csproj"
+              "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Application\\GGFast.Application.csproj": {
+                "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Application\\GGFast.Application.csproj"
               },
-              "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\GGFast.Domain.csproj": {
-                "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\GGFast.Domain.csproj"
+              "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\GGFast.Domain.csproj": {
+                "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\GGFast.Domain.csproj"
               },
-              "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Infraestructure\\GGFast.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Infraestructure\\GGFast.Infraestructure.csproj"
+              "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Infraestructure\\GGFast.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Infraestructure\\GGFast.Infraestructure.csproj"
               },
-              "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Shared\\GGFast.Shared.csproj": {
-                "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Shared\\GGFast.Shared.csproj"
+              "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Shared\\GGFast.Shared.csproj": {
+                "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Shared\\GGFast.Shared.csproj"
               }
             }
           }
@@ -342,6 +307,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -416,24 +386,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -442,28 +394,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\jujox\\.dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Shared\\GGFast.Shared.csproj": {
+    "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Shared\\GGFast.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Shared\\GGFast.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Shared\\GGFast.Shared.csproj",
         "projectName": "GGFast.Shared",
-        "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Shared\\GGFast.Shared.csproj",
-        "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Shared\\obj\\",
+        "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Shared\\GGFast.Shared.csproj",
+        "packagesPath": "C:\\Users\\jujox\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nelso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jujox\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -476,6 +426,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -492,26 +447,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\jujox\\.dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

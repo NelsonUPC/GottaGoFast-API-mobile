@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace GottaGoFast.Presentation.Publishing.Filters;
 
-public class AuthorizeCustomAttribute : Attribute, IAsyncAuthorizationFilter
+public class AuthorizeCustomAttribute : Attribute
 {
     private readonly string[] _roles;
 
@@ -13,13 +13,5 @@ public class AuthorizeCustomAttribute : Attribute, IAsyncAuthorizationFilter
         _roles = roles;
     }
     
-    public async Task OnAuthorizationAsync(AuthorizationFilterContext context)
-    {
-        var user = context.HttpContext.Items["User"] as User;
-        
-        if (user == null || !_roles.Any(role => user.Type.Contains(role)))
-        {
-            context.Result = new UnauthorizedResult();
-        }
-    }
+    
 }

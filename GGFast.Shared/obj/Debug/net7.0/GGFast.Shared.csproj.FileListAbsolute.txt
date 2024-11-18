@@ -10,3 +10,15 @@ C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Sh
 C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Shared\obj\Debug\net7.0\GGFast.Shared.pdb
 C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Shared\obj\Debug\net7.0\ref\GGFast.Shared.dll
 C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Shared\obj\Debug\net7.0\GGFast.Shared.sourcelink.json
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\bin\Debug\net7.0\GGFast.Shared.deps.json
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\bin\Debug\net7.0\GGFast.Shared.dll
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\bin\Debug\net7.0\GGFast.Shared.pdb
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\obj\Debug\net7.0\GGFast.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\obj\Debug\net7.0\GGFast.Shared.AssemblyInfoInputs.cache
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\obj\Debug\net7.0\GGFast.Shared.AssemblyInfo.cs
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\obj\Debug\net7.0\GGFast.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\obj\Debug\net7.0\GGFast.Shared.sourcelink.json
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\obj\Debug\net7.0\GGFast.Shared.dll
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\obj\Debug\net7.0\refint\GGFast.Shared.dll
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\obj\Debug\net7.0\GGFast.Shared.pdb
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Shared\obj\Debug\net7.0\ref\GGFast.Shared.dll
