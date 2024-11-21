@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "klU9b9PgCa1OitY5qgm074qiE7agB+KBh9p6VnTIyJf2pDZ2RxJCGwmfcv7ru7TvhftIY8+SHdDbzz0K6mxweA==",
+  "dgSpecHash": "YjcCc4AwhYQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Domain\\GGFast.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\nelso\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\nelso\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\nelso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Domain\\GGFast.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

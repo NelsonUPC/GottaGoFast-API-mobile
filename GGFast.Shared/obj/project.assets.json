@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nelso\\.nuget\\packages\\": {}
+    "C:\\Users\\jujox\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Shared\\GGFast.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Shared\\GGFast.Shared.csproj",
       "projectName": "GGFast.Shared",
-      "projectPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Shared\\GGFast.Shared.csproj",
-      "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nelso\\Documents\\API Web\\MobileAPI\\DriveSafe-BackEnd-main-main\\GGFast.Shared\\obj\\",
+      "projectPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Shared\\GGFast.Shared.csproj",
+      "packagesPath": "C:\\Users\\jujox\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jujox\\Documents\\dev\\AplicacionesMoviles\\GottaGoFast-API-mobile\\GGFast.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nelso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\jujox\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -56,26 +59,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\jujox\\.dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

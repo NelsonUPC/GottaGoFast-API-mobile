@@ -3012,12 +3012,18 @@
           "xunit": "2.4.2"
         },
         "runtime": {
-          "GGFast.Application.dll": {}
+          "GGFast.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "GGFast.Domain/1.0.0": {
         "runtime": {
-          "GGFast.Domain.dll": {}
+          "GGFast.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "GGFast.Infraestructure/1.0.0": {
@@ -3029,12 +3035,18 @@
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
         },
         "runtime": {
-          "GGFast.Infraestructure.dll": {}
+          "GGFast.Infraestructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "GGFast.Shared/1.0.0": {
         "runtime": {
-          "GGFast.Shared.dll": {}
+          "GGFast.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

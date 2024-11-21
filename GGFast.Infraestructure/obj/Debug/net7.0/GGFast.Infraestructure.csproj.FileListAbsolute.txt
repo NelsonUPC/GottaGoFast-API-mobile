@@ -14,3 +14,19 @@ C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.In
 C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.Infraestructure.pdb
 C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Infraestructure\obj\Debug\net7.0\ref\GGFast.Infraestructure.dll
 C:\Users\nelso\Documents\API Web\MobileAPI\DriveSafe-BackEnd-main-main\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.Infraestructure.sourcelink.json
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\bin\Debug\net7.0\GGFast.Infraestructure.deps.json
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\bin\Debug\net7.0\GGFast.Infraestructure.dll
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\bin\Debug\net7.0\GGFast.Infraestructure.pdb
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\bin\Debug\net7.0\GGFast.Domain.dll
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\bin\Debug\net7.0\GGFast.Domain.pdb
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.Infraestructure.AssemblyInfo.cs
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.Infraestructure.sourcelink.json
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.I.EF88C19F.Up2Date
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.Infraestructure.dll
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\refint\GGFast.Infraestructure.dll
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\GGFast.Infraestructure.pdb
+C:\Users\jujox\Documents\dev\AplicacionesMoviles\GottaGoFast-API-mobile\GGFast.Infraestructure\obj\Debug\net7.0\ref\GGFast.Infraestructure.dll

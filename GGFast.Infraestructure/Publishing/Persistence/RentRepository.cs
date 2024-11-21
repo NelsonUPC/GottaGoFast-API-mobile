@@ -50,17 +50,21 @@ public class RentRepository : IRentRepository
         return 0;
     }
 
+
     public async Task<bool> UpdateAsync(Rent data, int id)
     {
         var existingRent = _driveSafeDbContext.Rents.FirstOrDefault(r => r.Id == id);
         if (existingRent != null)
         {
             existingRent.Status = data.Status;
-            existingRent.StartDate = data.StartDate;
-            existingRent.EndDate = data.EndDate;
-            existingRent.VehicleId = data.VehicleId;
-            existingRent.TenantId = data.TenantId;
-            existingRent.PickUpPlace = data.PickUpPlace;
+            existingRent.PickupDate = data.PickupDate;
+            existingRent.DropoffDate = data.DropoffDate;
+            existingRent.PickUpLocation = data.PickUpLocation;
+            existingRent.DroppOfLocation = data.DroppOfLocation;
+            existingRent.RentalRate = data.RentalRate;
+            existingRent.Surcharge = data.Surcharge;
+            existingRent.SalesTax = data.SalesTax;
+            existingRent.TotalPrice = data.TotalPrice;
             _driveSafeDbContext.Rents.Update(existingRent);
         }
         await _driveSafeDbContext.SaveChangesAsync();
@@ -77,8 +81,5 @@ public class RentRepository : IRentRepository
         await _driveSafeDbContext.SaveChangesAsync();
         return true;
     }
-    public async Task<List<Rent>> GetByUserIdAsync(int userId)
-    {
-        return await _driveSafeDbContext.Rents.Where(r => r.TenantId == userId).ToListAsync();
-    }
+    
 }

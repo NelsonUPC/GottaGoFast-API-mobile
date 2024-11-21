@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GGFast.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc5bbc5fd34936f02e197af02db4a67dfb920a8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0318dd14870e5369a4d81542003c7802ee2b7f1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GGFast.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GGFast.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
